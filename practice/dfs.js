@@ -1,4 +1,4 @@
-// Depth-First Search on a Tree using recursion
+// Depth-First Search Traversal on a Tree using recursion
 class TreeNode {
   constructor(value) {
     this.value = value;
