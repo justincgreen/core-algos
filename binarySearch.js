@@ -1,6 +1,6 @@
 class Solution {
   binarySearch(arr, target) {
-    let left = 0; // reps start of array
+    let left = 0; // represents start of array
     let right = arr.length - 1; // reps end of array
 
     while (left <= right) {
